@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/Kirito-knight/Kirito-knight"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/Kirito-knight/Kirito-knight"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Kirito-Knight;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
   📫 How to reach me:  
   Mail me at "kingsrichard2099@gmail.com" or
-  through website https://codewhiteweb.cf/#contact
+  through website https://khalilacloud.my.id
 
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
